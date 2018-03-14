@@ -45,7 +45,7 @@ const files = {
                 'webpack/webpack.dev.js',
                 'webpack/webpack.prod.js',
                 'webpack/webpack.test.js',
-                { file: 'webpack/logo-jhipster.png', method: 'copy' }
+                { file: 'webpack/logo-whitestein.png', method: 'copy' }
             ]
         }
     ],
@@ -97,9 +97,9 @@ const files = {
         {
             path: MAIN_SRC_DIR,
             templates: [
-                { file: 'content/images/hipster.png', method: 'copy' },
-                { file: 'content/images/hipster2x.png', method: 'copy' },
-                { file: 'content/images/logo-jhipster.png', method: 'copy' }
+                { file: 'content/images/whitestein.png', method: 'copy' },
+                { file: 'content/images/whitestein2x.png', method: 'copy' },
+                { file: 'content/images/logo-whitestein.png', method: 'copy' }
             ]
         }
     ],

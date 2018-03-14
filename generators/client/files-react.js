@@ -38,7 +38,7 @@ const files = {
                 'tslint.json',
                 'tsconfig.json',
                 { file: '.editorconfig', method: 'copy', noEjs: true },
-                'webpack/logo-jhipster.png',
+                'webpack/logo-whitestein.png',
                 'webpack/webpack.common.js',
                 'webpack/webpack.dev.js',
                 'webpack/webpack.prod.js',
@@ -59,9 +59,9 @@ const files = {
         {
             path: MAIN_SRC_DIR,
             templates: [
-                { file: 'static/images/hipster.png', method: 'copy' },
-                { file: 'static/images/hipster2x.png', method: 'copy' },
-                { file: 'static/images/logo-jhipster.png', method: 'copy' },
+                { file: 'static/images/whitestein.png', method: 'copy' },
+                { file: 'static/images/whitestein2x.png', method: 'copy' },
+                { file: 'static/images/logo-whitestein.png', method: 'copy' },
                 { file: 'static/images/logo-jhipster-react.svg', method: 'copy' }
             ]
         }
