@@ -1,7 +1,7 @@
 
 [![Logo][jhipster-image]][jhipster-url]
 
-Greetings, Java Hipster!
+Greetings, Custom EBP Generator!
 
 Full documentation and information is available on our website at [http://www.jhipster.tech/][jhipster-url]
 
